@@ -1,1 +1,1 @@
-# Xome Docs
+# Technical Article Samples
